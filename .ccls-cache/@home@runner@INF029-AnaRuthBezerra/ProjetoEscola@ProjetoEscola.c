@@ -171,7 +171,7 @@ int menuDisciplina(){
   int opcao;
 
   printf("\n\tMódulo de Disciplina\n\n");
-  printf("\n\tDigite a opção: \n\n");
+  printf("\tDigite a opção: \n\n");
   printf("0 - Voltar para o menu geral\n");
   printf("1 - Inserir Disciplina\n");
   printf("2 - Excluir Disciplina\n");
